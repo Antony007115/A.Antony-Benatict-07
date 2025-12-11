@@ -1,15 +1,15 @@
 <!-- 🔥 Profile Banner -->
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+  <img src="assets/banner.svg" alt="Banner" width="100%">
 </p>
 
-<!-- ✨ Animated Name Graphic -->
+<!-- ✨ Animated Name Graphic 
 <p align="center">
   <img src="assets/name.svg" alt="A. Antony Benatict" width="80%">
 </p>
 
 ---
-
+-->
 ### 👋 Hi, I'm **A. Antony Benatict**
 A passionate developer specializing in **ARTIFICIAL INTELLIGENCE, Machine Learning, IoT, Web Applications, and UI/UX**.
 
