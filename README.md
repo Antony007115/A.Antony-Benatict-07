@@ -11,7 +11,7 @@
 ---
 -->
 ### 👋 Hi, I'm **A. Antony Benatict**
-A passionate developer specializing in **ARTIFICIAL INTELLIGENCE, Machine Learning, IoT, Web Applications, and UI/UX**.
+A passionate developer specializing in **Artificial Intelligence Machine Learning, IoT, Web Applications, and UI/UX**.
 
 ---
 
