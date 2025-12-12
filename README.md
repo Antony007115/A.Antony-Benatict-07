@@ -1,21 +1,21 @@
-<!-- 🔥 Profile Banner -->
+<!--  Profile Banner -->
 <p align="center">
   <img src="assets/banner.svg" alt="Banner" width="100%">
 </p>
 
-<!-- ✨ Animated Name Graphic 
+<!--  Animated Name Graphic 
 <p align="center">
   <img src="assets/name.svg" alt="A. Antony Benatict" width="80%">
 </p>
 
 ---
 -->
-### 👋 Hi, I'm **A. Antony Benatict**
+### Hi, I'm **A. Antony Benatict**
 A passionate developer specializing in **Artificial Intelligence Machine Learning, IoT, Web Applications, and UI/UX**.
 
 ---
 
-## 🚀 Skills & Technologies
+##  Skills & Technologies
 - **Languages:** Python, JavaScript, Java  
 - **Frontend:** React.js, HTML, CSS, Tailwind  
 - **Backend:** Node.js, Spring Boot, REST APIs  
@@ -25,17 +25,17 @@ A passionate developer specializing in **Artificial Intelligence Machine Learnin
 
 ---
 
-## 📌 Featured Projects
-### 🧠 AI Voice Assistant  
+##  Featured Projects
+###  AI Voice Assistant  
 Built a custom AI assistant with speech recognition, intent handling, and GUI.
 
-### 🌐 DNN Web Application  
+###  DNN Web Application  
 Integrated a Deep Neural Network model into a full-stack web platform.
 
-### 🔐 API Abuse Detection  
+### API Abuse Detection  
 Built ML-based detection for stealthy bot attacks on API endpoints.
 
-### 📡 IoT Smart Monitoring  
+###  IoT Smart Monitoring  
 Real-time sensor monitoring using NodeMCU + Cloud + Web Dashboard.
 
 ---
