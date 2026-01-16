@@ -1,12 +1,16 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=240&section=header&text=AntonyBenatict%20&animation=twinkling" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=240&section=header&text=A.%20Antony%20Benedict&fontSize=40&animation=twinkling&fontAlignY=38"
+    alt="Profile Banner"
+  />
 </p>
 
-<!-- ===================== INTRO ===================== -->
+
 <h2 align="center">Hi 👋, I'm Antony</h2>
+
 <p align="center">
-🎓 Student  . Artificial Intelligence Machine Learning Engineer 🤖 ML Enthusiast .  <br/>
+🎓 Student · Artificial Intelligence & Machine Learning Engineer 🤖 <br/>
 📍 India
 </p>
 
@@ -22,7 +26,10 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,mysql,git,github,postman" />
+  <img 
+    src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,mysql,git,github,postman"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
@@ -34,7 +41,7 @@
 - 🎙️ **AI Voice Assistant**  
 - 🧠 **DNN Web Application**  
 - 🚨 **AI Abuse Detection**  
-- 📡 **Smart Monitoring System**  
+- 📡 **Smart Monitoring System**
 
 > More exciting projects coming soon 🚀
 
@@ -42,9 +49,16 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antony007115&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Antony007115)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony007115&layout=compact&theme=github_dark)](https://github.com/Antony007115)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Antony007115&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony007115&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+    height="170"
+  />
+</p>
 
 ---
 
@@ -53,7 +67,6 @@
   <a href="https://github.com/Antony007115">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <!-- Add LinkedIn badge when ready -->
 </p>
 
 ---
