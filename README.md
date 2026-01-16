@@ -41,9 +41,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antony007115&show_icons=true&theme=github)](https://github.com/Antony007115)
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antony007115&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/Antony007115)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony007115&layout=compact&theme=github_dark)](https://github.com/Antony007115)
 
 ---
 
