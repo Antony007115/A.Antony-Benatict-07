@@ -1,57 +1,49 @@
-<!--  Profile Banner -->
-<p align="center">
-  <img src="assets/banner.svg" alt="Banner" width="100%">
-</p>
+# Hi 👋 I'm Antony
 
-<!--  Animated Name Graphic 
-<p align="center">
-  <img src="assets/name.svg" alt="A. Antony Benatict" width="80%">
-</p>
-
----
--->
-### Hi, I'm **A. Antony Benatict**
-A passionate developer specializing in **Artificial Intelligence Machine Learning, IoT, Web Applications, and UI/UX**.
+🎓 Student | 💻 Backend Developer | 🤖 ML Enthusiast  
+📍 India
 
 ---
 
-##  Skills & Technologies
-- **Languages:** Python, JavaScript, Java  
-- **Frontend:** React.js, HTML, CSS, Tailwind  
-- **Backend:** Node.js, Spring Boot, REST APIs  
-- **AI/ML:** TensorFlow, Scikit-learn, Deep Learning  
-- **IoT:** ESP8266, Sensors, Cloud APIs  
-- **Tools:** Git, GitHub, Postman, VS Code  
+## 👨‍💻 About Me
+- Backend developer with interest in APIs and databases
+- Learning Machine Learning & Data Science
+- Preparing for placements and interviews
+- Interested in building real-world projects
 
 ---
 
-##  Featured Projects
-###  AI Voice Assistant  
-Built a custom AI assistant with speech recognition, intent handling, and GUI.
+## 🛠️ Skills
+- **Languages:** Python, Java, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, Postman
+- **Learning:** Machine Learning, Data Structures
 
-###  DNN Web Application  
-Integrated a Deep Neural Network model into a full-stack web platform.
+---
 
-### API Abuse Detection  
-Built ML-based detection for stealthy bot attacks on API endpoints.
+## 📂 Projects
+- 🔹 **Backend REST API** – CRUD API with Node.js & MongoDB
+- 🔹 **Portfolio Website** – Personal website using HTML & CSS
+- 🔹 **ML Mini Project** – Beginner-level ML project (in progress)
+- 🔹 **AI Voice Assistant**
+- 🔹 **DNN Web Application**
+- 🔹 **AI Abuse Detection**
+- 🔹 **Smart Monitoring System**
 
-###  IoT Smart Monitoring  
-Real-time sensor monitoring using NodeMCU + Cloud + Web Dashboard.
+> More projects coming soon 🚀
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antony007115&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony007115&layout=compact&theme=tokyonight" width="49%">
-</p>
+![Antony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antony007115&show_icons=true&theme=default)
 
 ---
 
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/" target="_blank">LinkedIn</a> •
-  <a href="mailto:your-email@gmail.com">Email</a>
-</p>
+## 📫 Contact Me
+- GitHub: https://github.com/Antony007115
+- LinkedIn: *(add when ready)*
 
 ---
+
+⭐ Thanks for visiting my profile!
