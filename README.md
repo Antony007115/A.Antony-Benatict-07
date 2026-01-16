@@ -6,7 +6,7 @@
 <!-- ===================== INTRO ===================== -->
 <h2 align="center">Hi 👋, I'm Antony</h2>
 <p align="center">
-🎓 Student • 💻 Backend Developer • 🤖 ML Enthusiast <br/>
+🎓 Student  . Artificial Intelligence Machine Learning Engineer 🤖 ML Enthusiast .  <br/>
 📍 India
 </p>
 
