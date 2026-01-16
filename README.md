@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=240&section=header&text=A.%20Antony%20Benedict&fontSize=40&animation=twinkling&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:8e2de2&height=240&section=header&text=A.%20Antony%20Benatict&fontSize=40&animation=twinkling&fontAlignY=38"
     alt="Profile Banner"
   />
 </p>
