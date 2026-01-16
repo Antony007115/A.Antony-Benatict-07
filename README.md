@@ -1,49 +1,62 @@
-# Hi 👋 I'm Antony
+<!-- PROFILE BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:112240&height=220&section=header&text=Antony%20|%20Backend%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🎓 Student | 💻 Backend Developer | 🤖 ML Enthusiast  
+<h2 align="center">Hi 👋, I'm Antony</h2>
+<p align="center">
+🎓 Student • 💻 Backend Developer • 🤖 ML Enthusiast <br/>
 📍 India
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-- Backend developer with interest in APIs and databases
-- Learning Machine Learning & Data Science
-- Preparing for placements and interviews
-- Interested in building real-world projects
+- Passionate Backend Developer focused on APIs & Databases
+- Learning Machine Learning and Data Science
+- Preparing for placements & real-world engineering roles
+- Interested in scalable, production-ready systems
 
 ---
 
-## 🛠️ Skills
-- **Languages:** Python, Java, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, GitHub, Postman
-- **Learning:** Machine Learning, Data Structures
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,express,mongodb,mysql,git,github,postman" />
+</p>
 
 ---
 
-## 📂 Projects
-- 🔹 **Backend REST API** – CRUD API with Node.js & MongoDB
-- 🔹 **Portfolio Website** – Personal website using HTML & CSS
-- 🔹 **ML Mini Project** – Beginner-level ML project (in progress)
-- 🔹 **AI Voice Assistant**
-- 🔹 **DNN Web Application**
-- 🔹 **AI Abuse Detection**
-- 🔹 **Smart Monitoring System**
-
-> More projects coming soon 🚀
+## 📂 Featured Projects
+- 🚀 **Backend REST API** – Node.js, Express, MongoDB
+- 🌐 **Portfolio Website** – HTML, CSS
+- 🤖 **ML Mini Project** – Machine Learning fundamentals
+- 🎙️ **AI Voice Assistant**
+- 🧠 **DNN Web Application**
+- 🚨 **AI Abuse Detection**
+- 📡 **Smart Monitoring System**
 
 ---
 
 ## 📊 GitHub Stats
-![Antony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antony007115&show_icons=true&theme=default)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Antony007115&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antony007115&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-## 📫 Contact Me
-- GitHub: https://github.com/Antony007115
-- LinkedIn: *(add when ready)*
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/Antony007115">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <!-- Add LinkedIn when ready -->
+</p>
 
 ---
 
+<p align="center">
 ⭐ Thanks for visiting my profile!
+</p>
